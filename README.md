@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio inicial aprendiendo con Henry
+Este es un proyecto de prueba del modulo 2 de henry como crear y clonar repositorio a mi escritorio local
